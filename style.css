@@ -33,7 +33,7 @@ body {
 }
 
 h1, h2, h3 {
-        color: #5d5be5;
+        color: #0983ff;
         font-weight: 700;
         line-height: 1;
         margin: 0;
@@ -48,12 +48,12 @@ h2 {
 }
 
 a {
-        color: #ff365e;
+        color: #5d5be5;
         text-decoration: none;
 }
 
 a:hover {
-        color: #ff365e;
+        color: #5d5be5;
 }
         
 p {
